@@ -1,0 +1,18 @@
+Tout ce qui ne se mesure pas ne s'ameliore pas
+nous n'aimons pas les risques mais nous les minimison
+
+Je participe à un challenge organise par 365 Data science, j'ai construit un algorithme d'apprentissage automatique qui soit capable de prédire si un étudiant est susceptible de souscrire à un plan payant.
+
+
+
+Voici ma démarche de travail :
+
+Extraction des données. Il m'a été donné une base de données avec 11 tables avec chacune diverses informations, alors ma première tache a été d'analyser chacune de ces tables afin d'extraire les données nécessaires à la construction de mon modèle.
+
+
+
+Preprocessing : dans cette partie il était question de mettre au propre les données en trouvant une stratégie pour combler les valeurs manquantes, transformer les valeurs catégoriques en numérique, créé des features utiles, formater correctement les donner et scale data.
+
+
+
+Et enfin, j'ai construit un premier model ensuite j'ai optimisé les hypers paramètre pour avoir de meilleurs scores. Par la suite j'ai entraînée plusieurs d'autres moes et j'ai finalemet retenu la logistque regression

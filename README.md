@@ -42,4 +42,4 @@ All datasets are from 365 Data Science.
 
 ## Contact
 
-If you have any questions or concerns, you can contact Julien Awon'ga via Twitter (@julienawon) or LinkedIn (Julien Awonga).
+If you have any questions or concerns, you can contact Julien Awon'ga via Twitter (@julienawonga) or LinkedIn (Julien Awonga).

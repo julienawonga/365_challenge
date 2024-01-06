@@ -1,7 +1,7 @@
 
 # 365 Data Science Challenge
 
-## Description
+## Description 
 
 365 Data Science is an online learning platform specializing in data science courses. In this challenge, you are tasked with analyzing an extract of a database on student engagement and identifying key areas of improvement.
 

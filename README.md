@@ -16,7 +16,7 @@ To get started with the project, you will need to clone the repository:
 
 Then, you will need to run the notebook `notebook.ipynb`.
 
-## Usage
+## Usage 
 
 To run the project, you will need to install Python 3.8, as well as the following packages:
 

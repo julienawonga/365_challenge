@@ -8,7 +8,7 @@
 Students learn by watching video content, then evaluate their knowledge by taking quizzes, practice exams, course exams, and career track exams. The exams can be attempted more than once.
 
 ## Installation
- 
+  
 To get started with the project, you will need to clone the repository:
 
 

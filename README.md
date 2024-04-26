@@ -9,7 +9,7 @@ Students learn by watching video content, then evaluate their knowledge by takin
 
 ## Installation
   
-To get started with the project, you will need to clone the repository:
+To get started with the project, you will need to clone the repository :
 
 
 `git clone https://github.com/julienawon/365_challenge.git` 
